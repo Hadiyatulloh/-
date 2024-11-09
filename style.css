@@ -1,0 +1,30 @@
+ * {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     text-decoration: none;
+     list-style-type: none;
+ }
+ 
+ .header {
+     width: 1000px;
+     margin: 0 auto;
+ }
+ 
+ button {
+     padding: 10px;
+     font-size: 14px;
+     background-color: white;
+     margin-top: 200px;
+     margin-left: 100px;
+ }
+ 
+ .btn1:hover {
+     transform: rotate(360deg) skew(360deg) scale(0.4);
+     transition: all 0.07s;
+ }
+ 
+ .btn2:hover {
+     transform: rotate(360deg) skew(360deg) scale(0.4);
+     transition: all 0.07s;
+ }
